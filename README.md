@@ -1,3 +1,3 @@
 # Gapminder
 
-![](screenshot_1960.png)
+![](animated_plot.gif)
